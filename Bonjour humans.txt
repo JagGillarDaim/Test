@@ -3,8 +3,3 @@ It is I, the Carl. I bring mustard.
 ___/TAXI\__
 I__0___0___I
 oI-<
-Jag heter calleJag heter calle<<<<<<< HEAD
-Jag heter calle
-=======
-O~o
->>>>>>> d6c461d12f4e50094ef0e7947aadc518466217a7
